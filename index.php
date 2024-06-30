@@ -1,6 +1,9 @@
-<?php echo "my first repository" ?>
-<?php echo "my name is dhum" ?>
-<?php echo "i'm a nice guy" ?>
-<?php echo "GG" ?>
-<?php echo "Computer" ?>
-<?php echo "i'm good" ?>
+<?php 
+ echo "my first repository" 
+ echo "my name is dhum" 
+ echo "i'm a nice guy" 
+ echo "GG" 
+ echo "Computer" 
+ echo "i'm good" 
+ echo "i'm done"
+?>
