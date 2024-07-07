@@ -6,4 +6,5 @@
  echo "Computer" 
  echo "i'm good" 
  echo "i'm done"
+ echo "i love you"
 ?>
